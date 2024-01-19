@@ -31,7 +31,7 @@ public class DailyTimeRecord {
                     System.out.println("Invalid choice. Please try again.");
             }
         }
-    }
+    } 
  
     private static void displayMenu() {
         System.out.println("\n=== Daily Time Record System ===");
