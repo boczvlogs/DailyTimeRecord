@@ -17,7 +17,7 @@ public class DailyTimeRecord {
                 case 1:
                     logTimeIn(scanner);
                     break;
-                case 2:
+                case 2: 
                     logTimeOut(scanner);
                     break;
                 case 3:
