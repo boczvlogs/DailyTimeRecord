@@ -1,0 +1,2 @@
+# DailyTimeRecord
+DailyTimeRecord in Java
