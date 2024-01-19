@@ -32,7 +32,7 @@ public class DailyTimeRecord {
             }
         }
     }
-
+ 
     private static void displayMenu() {
         System.out.println("\n=== Daily Time Record System ===");
         System.out.println("1. Log Time In");
