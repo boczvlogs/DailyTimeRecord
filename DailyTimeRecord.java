@@ -11,7 +11,7 @@ public class DailyTimeRecord {
             displayMenu();
 
             int choice = scanner.nextInt();
-            scanner.nextLine(); // Consume the newline character
+            scanner.nextLine(); // Consume the newline characters
 
             switch (choice) {
                 case 1:
