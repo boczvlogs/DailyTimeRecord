@@ -22,7 +22,7 @@ public class DailyTimeRecord {
                     break;
                 case 3:
                     displayTimeRecords();
-                    break;
+                    break;     
                 case 4: 
                     System.out.println("Exiting the Daily Time Record system. Goodbye!");
                     System.exit(0);
