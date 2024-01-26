@@ -13,7 +13,7 @@ public class DailyTimeRecord {
             int choice = scanner.nextInt();
             scanner.nextLine(); // Consume the newline characters
 
-            switch (choice) {
+            switch (choice) {   
                 case 1:
                     logTimeIn(scanner);
                     break;
