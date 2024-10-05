@@ -64,7 +64,7 @@ public class DailyTimeRecord {
             System.out.println("No time in record found for employee " + employeeId);
         }
     } 
-// this are os for confirmation of Time record 
+// this for confirmation of Time record 
    private static void displayTimeRecords() {
         System.out.println("\n=== Time Records ===");
         if (timeRecords.isEmpty()) {
