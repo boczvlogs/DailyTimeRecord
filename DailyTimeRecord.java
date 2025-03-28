@@ -59,7 +59,7 @@ public class DailyTimeRecord {
         if (timeRecords.containsKey(employeeId)) {
             String timeOut = getTime();
             System.out.println("Time out recorded for employee " + employeeId + ": " + timeOut);
-            timeRecords.remove(employeeId); // Remove the entry after logging time out
+            timeRecords.remove(employeeId); // Remove the entry after logging time out.
         } else {
             System.out.println("No time in record found for employee " + employeeId);
         }
